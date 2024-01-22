@@ -5,6 +5,9 @@ using UnityEngine;
 public class player_controller : MonoBehaviour
 {
 
+    //writing extra stuff
+    //do m,ore stuff
+    //all testing for git
     //variables
     [SerializeField] float steer_speed = 0.25f;
     [SerializeField] float drive_speed = 0.01f;
@@ -12,7 +15,7 @@ public class player_controller : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        print("github do u see me?");
     }
 
     // Update is called once per frame
