@@ -5,6 +5,7 @@ using UnityEngine;
 public class Collision : MonoBehaviour
 {
     
+    //IM WRITING THIS FROM MY MACBOOK BRO WHATTTTT
     void OnCollisionEnter2D(Collision2D other)
     {
         Debug.Log("COLLIDED WTF");   
